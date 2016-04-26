@@ -3,7 +3,7 @@
 
 ---
 
-## Descrição do Problema
+### Descrição do Problema
 
 O objectivo do projecto é criar uma aplicação que permite ver e alterar um
 documento textual. A aplicação mantém o nome do documento onde deve ser
